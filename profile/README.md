@@ -23,4 +23,8 @@ pip install astro-weights
   <a href="https://huggingface.co/glitch401/qwen3.5-9B-terse">qwen3.5-9B-terse</a>
 </p>
 
+<p align="center">
+  <a href="https://www.producthunt.com/products/astro-weights?embed=true&amp;utm_source=badge-featured&amp;utm_medium=badge&amp;utm_campaign=badge-astro-weights" target="_blank" rel="noopener noreferrer"><img alt="astro-weights - Agent-driven weight edits for open models, as LoRA adapters | Product Hunt" width="250" height="54" src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=1322337&amp;theme=dark&amp;t=1795128508475"></a>
+</p>
+
 **Status:** pre-alpha; interfaces can still change. Adapter cards report paired evals against base model, limitations included.
